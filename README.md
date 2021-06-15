@@ -1,1 +1,1 @@
-##### Personal directory for data, design, and APIs.
+Personal directory for data, design, and APIs.
