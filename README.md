@@ -1,1 +1,1 @@
-# Personal playground directory (design, APIs, and more)
+# Personal directory for data, design, and APIs.
