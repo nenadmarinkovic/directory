@@ -1,1 +1,1 @@
-Personal web directory for data, design, and APIs.
+Personal open-source directory for playing with data, design, and APIs.
