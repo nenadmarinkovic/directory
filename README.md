@@ -1,1 +1,3 @@
-👨🏻‍💻 Personal open-source directory for playing with data, design, and APIs.
+<pre>
+👨🏻‍💻  Personal open-source directory for playing with data, design, and APIs.
+</pre>
